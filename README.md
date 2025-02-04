@@ -28,7 +28,7 @@ The Power BI report includes the following analyses:
 
 8. **Top Performing Cities by Profit:** Identifies the top 5 cities based on profit to gain insights into their successful sales strategies.
 
-**📊Dashboard Overview :**
+**📊 Dashboard Overview :**
 
 Designed a Power BI dashboard to track total sales of **$89.99 million**, with key metrics including an average price per unit of **$45.22**, **2 million** units sold, and a total profit of **$332.13 million**.
 
