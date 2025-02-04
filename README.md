@@ -1,4 +1,4 @@
-📊 **Adidas Power BI Analysis**
+**📊 Adidas Power BI Analysis**
 
 **📌 Project Overview :**
 
@@ -28,7 +28,7 @@ The Power BI report includes the following analyses:
 
 8. **Top Performing Cities by Profit:** Identifies the top 5 cities based on profit to gain insights into their successful sales strategies.
 
-**Dashboard Overview :**
+**📊Dashboard Overview :**
 
 Designed a Power BI dashboard to track total sales of **$89.99 million**, with key metrics including an average price per unit of **$45.22**, **2 million** units sold, and a total profit of **$332.13 million**.
 
@@ -48,7 +48,7 @@ Analyzed units sold by product category and gender, revealing that 54% of units 
 
 Identified top-performing cities based on profit, with Charleston contributing $15.61 million to overall profits,leading to insights on successful strategies that can be replicated in underperforming cities.
 
-🛠️ **How to Use the Power BI Report**
+**🛠️ How to Use the Power BI Report**
 
 1. **Download and Install Power BI Desktop** (if not already installed) – https://powerbi.microsoft.com/en-us/desktop/
 
