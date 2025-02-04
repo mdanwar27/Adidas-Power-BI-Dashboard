@@ -53,6 +53,7 @@ Identified top-performing cities based on profit, with Charleston contributing $
 1. **Download and Install Power BI Desktop** (if not already installed) – https://powerbi.microsoft.com/en-us/desktop/
 
 2. Open the .pbix File :
+
 a. Download the **Adidas Power BI Analysis.pbix** file from this repository.
 
 b. Open it in **Power BI Desktop**.
