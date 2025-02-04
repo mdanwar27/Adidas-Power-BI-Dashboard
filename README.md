@@ -59,6 +59,7 @@ a. Download the **Adidas Power BI Analysis.pbix** file from this repository.
 b. Open it in **Power BI Desktop**.
 
 3. Explore the Dashboard:
+
 a. Use filters and slicers to analyze data dynamically.
 
 b. Hover over visualizations for detailed insights.
