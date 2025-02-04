@@ -15,5 +15,6 @@ Conducted a comprehensive profit analysis for six retailers. The top performer, 
 
 Analyzed units sold by product category and gender, revealing that 54% of units sold were for male-oriented products, while 46% were for female-oriented products.
 
-4. Top Cities by Profit*:
+4. Top Cities by Profit:
+
 Identified top-performing cities based on profit, with Charleston contributing $15.61 million to overall profits,leading to insights on successful strategies that can be replicated in underperforming cities.
